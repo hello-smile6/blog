@@ -7,18 +7,9 @@ categories: post jekyll blog github-pages
 
 # First post!
 
-So I got Jekyll setup on `GitHub pages` and it all works now!!
-`YEAR-MONTH-DAY-title.MARKUP`
-
+So I got Jekyll setup on `GitHub pages` and it all works now!! 
+The `hacker` theme still doesn't work, I'll probably fix it sometime soon...
 I'm just testing a few things...
-
-{% highlight pythin %}
-def greet(name)
-    print(f"Hello, {name}!")
-
-greet('Tom')
-#=> prints 'Hello, Tom!' to STDOUT.
-{% endhighlight %}
 
 ```python
 print("Hello, testing!")
