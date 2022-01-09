@@ -1,5 +1,6 @@
 ---
 layout: post
+permalink: /first-post
 title:  "My first post!"
 date:   2022-01-09 14:58:00 +05:30
 categories: post jekyll blog github-pages
@@ -10,6 +11,8 @@ categories: post jekyll blog github-pages
 So I got Jekyll setup on `GitHub pages` and it all works now!! 
 The `hacker` theme still doesn't work, I'll probably fix it sometime soon...
 I'm just testing a few things...
+
+![image](/assets/images/Chiroyce.png)
 
 ```python
 print("Hello, testing!")
