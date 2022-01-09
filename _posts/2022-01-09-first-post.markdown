@@ -9,8 +9,7 @@ categories: post jekyll blog github-pages
 # First post!
 
 So I got Jekyll setup on `GitHub pages` and it all works now!! 
-The `hacker` theme still doesn't work, I'll probably fix it sometime soon...
-I'm just testing a few things...
+I'm just testing a few things for now.. more posts are coming soon!!
 
 ![image](/blog/assets/Chiroyce.png)
 
