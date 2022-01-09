@@ -21,7 +21,7 @@
 title: "Chiroyce's blog"
 email: 
 description: >- # this means to ignore newlines until "baseurl:"
-  "Welcome to Chiroyce's blog!"
+  Welcome to Chiroyce's blog!
 baseurl: "/blog" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 
