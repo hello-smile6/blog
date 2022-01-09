@@ -12,7 +12,7 @@ So I got Jekyll setup on `GitHub pages` and it all works now!!
 The `hacker` theme still doesn't work, I'll probably fix it sometime soon...
 I'm just testing a few things...
 
-![image](/assets/images/Chiroyce.png)
+![image](/assets/Chiroyce.png)
 
 ```python
 print("Hello, testing!")
