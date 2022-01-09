@@ -3,6 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
+# About
 
 Chiroyce can be found on
 - [Replit](https://replit.com/@Chiroyce)
