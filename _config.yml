@@ -28,7 +28,7 @@ twitter_username:
 github_username:  chiroyce1
 
 # Build settings
-theme: minima
+theme: jekyll-theme-hacker
 plugins:
   - jekyll-feed
 
